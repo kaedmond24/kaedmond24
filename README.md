@@ -11,7 +11,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Python](img.shields.io/badge/-Python-333333?style=flat&...)
+:snake: Python | 
+:chart_with_upwards_trend: SQL | 
+:heavy_dollar_sign:_ Bash
 - 🌐 &nbsp;
 ![HTML5](img.shields.io/badge/-HTML5-333333?style=flat&l...)
 ![CSS](img.shields.io/badge/-CSS-333333?style=flat&log...)
@@ -28,7 +30,7 @@
 - 🔧 &nbsp;
 ![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-33...)
 - 🖥 &nbsp;
-![diagram.net](img.shields.io/badge/-Diagram.net-333333?style=...)
+:triangular_ruler: LucidChart
 
 <br/>
 
