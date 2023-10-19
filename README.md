@@ -9,7 +9,7 @@
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
 - 💼 What are you planning on doing for work...
     > ... Focused on building out :1234::fast_forward: `Data Pipelines` :arrow_right::bar_chart: and the :construction_worker_man::hammer_and_wrench: Cloud Infrastructure :construction: they run on as a `Cloud Data Engineer`.<br><br>
-- 🌱 Currently working on [Python NBA Players ETL Script](https://github.com/kaedmond24/python_nba_player_api_to_csv_script)<br><br>
+- 🌱 Currently working on [AWS IAM Policy ETL Script using Python & Boto3](https://github.com/kaedmond24/iam_policies_csv_script)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     * [Python Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
     * [Python URL Shortner App Deployment on AWS Elastic Beanstalk](https://github.com/kaedmond24/python_url_shortener_app_deployment_3)
