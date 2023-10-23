@@ -11,9 +11,21 @@
     > ... Focused on building out :1234::fast_forward: `Data Pipelines` :arrow_right::bar_chart: and the :construction_worker_man::hammer_and_wrench: Cloud Infrastructure :construction: they run on as a `Cloud Data Engineer`.<br><br>
 - 🌱 Currently working on [Application containerization with Docker](https://docs.docker.com/)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
-    * [Python Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
-    * [Python URL Shortner App Deployment on AWS Elastic Beanstalk](https://github.com/kaedmond24/python_url_shortener_app_deployment_3)
-    * [System Information Viewer Bash Script](https://github.com/kaedmond24/Build-Script-3)<br><br>
+    > :gear: CI/CD Deployments
+    >  * [Python Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
+    >  * [Python URL Shortener App Deployment on AWS Elastic Beanstalk](https://github.com/kaedmond24/python_url_shortener_app_deployment_3)
+    >  * [Python URL Shortener App Deployment using AWS EC2](https://github.com/kaedmond24/python_url_shortener_deployment_4)<br><br>
+
+    > :repeat: Scripting
+    >  * [System Information Viewer Bash Script](https://github.com/kaedmond24/Build-Script-3)
+    >  * [Script #2 TBA](https://github.com/kaedmond24/)
+    >  * [Script #3 TBA](https://github.com/kaedmond24/)<br><br>
+
+    > :bar_chart: DataOps Pipelines
+    >  * [Data #1 TBA](https://github.com/kaedmond24/)
+    >  * [Data #2 TBA](https://github.com/kaedmond24/)
+    >  * [Data #3 TBA](https://github.com/kaedmond24/)<br><br>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
