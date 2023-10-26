@@ -9,7 +9,7 @@
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
 - 💼 What are you planning on doing for work...
     > ... Focused on building out :1234::fast_forward: `Data Pipelines` :arrow_right::bar_chart: and the :construction_worker_man::hammer_and_wrench: Cloud Infrastructure :construction: they run on as a `Cloud Data Engineer`.<br><br>
-- 🌱 Currently working on [Application containerization with Docker](https://docs.docker.com/)<br><br>
+- 🌱 Currently working on [Python Bank App Multi Region Deployment with Jenkins and Terraform](https://github.com/kaedmond24/bank_app_deployment_6)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     > :gear: CI/CD Deployments
     >  * [Python Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
