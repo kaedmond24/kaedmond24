@@ -3,12 +3,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 What do you like to do...
-    > ... Technically-sound IT Professional with 10+ years of actionable experience ready to take on new challenges in DataOps. An avid learner who embraces collaboration while using expertise to analyze relevant information and guide projects from conception to completion. When not tinkering with technology, I enjoy watching NBA basketball and Premier League soccer. Nothing beats taking a relaxing train ride while soaking up a great story of espionage.<br><br>
+    > ... Technically-sound IT Professional with several years of actionable experience ready to take on new challenges in securing cloud evironments. An avid learner who embraces collaboration while using expertise to analyze relevant information and guide projects from conception to completion. When not tinkering with technology, I enjoy watching NBA basketball and Premier League soccer. Nothing beats taking a relaxing train ride while soaking up a great story of espionage.<br><br>
 - 🎓 Educational background :arrow_heading_down:
     * :books: Bachelors of Science in Networks and Cybersecurity
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
 - 💼 What are you planning on doing for work...
-    > ... Focused on building out :1234::fast_forward: `Data Pipelines` :arrow_right::bar_chart: and the :construction_worker_man::hammer_and_wrench: Cloud Infrastructure :construction: they run on as a `Cloud Data Engineer`.<br><br>
+    > ... Focused on 🔓Securing🔐 Cloud ☁️ Data, Workloads, and Infrastructure ☁️ as a `Cloud Security Engineer`.<br><br>
 - 🌱 Currently working on [Python Bank App Multi Region Deployment with Jenkins and Terraform](https://github.com/kaedmond24/bank_app_deployment_6)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     > :gear: CI/CD Deployments
