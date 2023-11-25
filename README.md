@@ -12,19 +12,14 @@
 - 🌱 Currently working on [Python Bank App Multi Region Deployment with Jenkins and Terraform](https://github.com/kaedmond24/bank_app_deployment_6)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     > :gear: CI/CD Deployments
-    >  * [Python Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
-    >  * [Python URL Shortener App Deployment on AWS Elastic Beanstalk](https://github.com/kaedmond24/python_url_shortener_app_deployment_3)
-    >  * [Python URL Shortener App Deployment using AWS EC2](https://github.com/kaedmond24/python_url_shortener_deployment_4)<br><br>
+    >  * [Retail Banking App Deployment using Terraform](https://github.com/kaedmond24/python_banking_app_deployment_5)
+    >  * [Containerized Retail Banking App Deployment using AWS ECS](https://github.com/kaedmond24/containerized_bank_application_deployment_7)
+    >  * [URL Shortener App Deployment using AWS EC2](https://github.com/kaedmond24/python_url_shortener_deployment_4)<br><br>
 
     > :repeat: Scripting
-    >  * [System Information Viewer Bash Script](https://github.com/kaedmond24/Build-Script-3)
-    >  * [Script #2 TBA](https://github.com/kaedmond24/)
-    >  * [Script #3 TBA](https://github.com/kaedmond24/)<br><br>
-
-    > :bar_chart: DataOps Pipelines
-    >  * [Data #1 TBA](https://github.com/kaedmond24/)
-    >  * [Data #2 TBA](https://github.com/kaedmond24/)
-    >  * [Data #3 TBA](https://github.com/kaedmond24/)<br><br>
+    >  * [Linux System Information Viewer Bash Script](https://github.com/kaedmond24/Build-Script-3)
+    >  * [AWS IAM Policy to CSV ETL Python Script](https://github.com/kaedmond24/iam_policies_csv_script)
+    >  * [Linux System Processes to CSV Python Script](https://github.com/kaedmond24/python_system_processes_to_csv_script)<br><br>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
