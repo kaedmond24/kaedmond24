@@ -25,28 +25,28 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-:snake: Python | 
-:chart_with_upwards_trend: SQL | 
-:heavy_dollar_sign:_ Bash
+🐍 Python | 
+📈 SQL | 
+💲_ Bash
 - 🌐 &nbsp;
-:red_circle: HTML5 | 
-:large_blue_circle: CSS | 
-:yellow_circle: JavaScript
+🔴 HTML5 | 
+🔵 CSS | 
+🟡 JavaScript
 - 🛢 &nbsp;
-:elephant: PostgreSQL | 
-:dolphin: MySQL | 
-:blue_square: AWS Redshift
+🐘 PostgreSQL | 
+🐬 MySQL | 
+🟦 AWS Redshift
 - ⚙️ &nbsp;
-:link: Git | 
-:octocat: GitHub | 
-:man_in_tuxedo: Jenkins
+🥂 Git | 
+  ⚫ GitHub | 
+🤵‍♂️ Jenkins
 - 🔧 &nbsp;
-:vs: Visual Studio Code | 
-:cloud: AWS | 
-:penguin: Linux | 
-:window: Windows
+🆚 Visual Studio Code | 
+☁️ AWS | 
+🐧 Linux | 
+🪟 Windows
 - 🖥 &nbsp;
-:triangular_ruler: LucidChart
+📐 LucidChart
 
 <br/>
 
