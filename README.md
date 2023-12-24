@@ -8,7 +8,7 @@
     * :books: Bachelors of Science in Networks and Cybersecurity
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
 - 💼 What are you planning on doing for work...
-    > ... Focused on 🔓Securing🔐 Cloud ☁️ Data, Workloads, and Infrastructure ☁️ as a `Cloud Security Engineer`.<br><br>
+    > ... Focused on Building and Securing 🔐 Cloud ☁️ Data Pipelines, Workloads, and Infrastructure ☁️ as a `Cloud DataOps Engineer`.<br><br>
 - 🌱 Currently working on [Python Bank App Multi Region Deployment with Jenkins and Terraform](https://github.com/kaedmond24/bank_app_deployment_6)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     > :gear: CI/CD Deployments
