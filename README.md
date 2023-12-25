@@ -54,6 +54,6 @@
 
 <p align="center">
 :small_orange_diamond:<a href="www.kuralabs.org">KuraLabs</a>
-:small_orange_diamond:<a href="www.linkedin.com/in/kedmond24">Linkedin</a>
+:small_orange_diamond:<a href="https://www.linkedin.com/in/kedmond24">Linkedin</a>
 :small_orange_diamond:<a href="kaedmond24@gmail.com">Email</a>
 </p>
