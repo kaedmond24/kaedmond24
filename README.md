@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 What do you like to do...
-    > ... Technically-sound IT Professional with several years of actionable experience ready to take on new challenges in securing cloud evironments. An avid learner who embraces collaboration while using expertise to analyze relevant information and guide projects from conception to completion. When not tinkering with technology, I enjoy watching NBA basketball and Premier League soccer. Nothing beats taking a relaxing train ride while soaking up a great story of espionage.<br><br>
+    > ... Technically-sound IT Professional with several years of actionable experience ready to take on new challenges in building and securing cloud evironments. An avid learner who embraces collaboration while using expertise to analyze relevant information and guide projects from conception to completion. When not tinkering with technology, I enjoy watching NBA basketball and Premier League soccer. Nothing beats taking a relaxing train ride while soaking up a great story of espionage.<br><br>
 - 🎓 Educational background :arrow_heading_down:
     * :books: Bachelors of Science in Networks and Cybersecurity
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
