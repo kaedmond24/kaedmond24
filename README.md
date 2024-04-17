@@ -8,7 +8,7 @@
     * :books: Bachelors of Science in Networks and Cybersecurity
     * :books: Associate of Arts in Computer Science: Information Systems<br><br>
 - 💼 What are you planning on doing for work...
-    > ... Focused on Building and Securing 🔐 Cloud ☁️ Data Pipelines, Workloads, and Infrastructure ☁️ as a `Cloud DataOps Engineer`.<br><br>
+    > ... Focused on Building and Securing 🔐 Cloud ☁️ Networks, Workloads, and Infrastructure ☁️ as a `Cloud Security Engineer`.<br><br>
 - 🌱 Currently working on [End-to-End Data Engineering Pipeline](https://github.com/kaedmond24/end-to-end-data-engineering-project-4413618)<br><br>
 - ✍️ Project Repositories :arrow_heading_down:
     > :gear: CI/CD Deployments
